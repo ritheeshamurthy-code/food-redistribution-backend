@@ -8,7 +8,7 @@ import lombok.Setter;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "donation_status_log")
+@Table(name = "DonationStatusLog")
 @Getter
 @Setter
 @NoArgsConstructor

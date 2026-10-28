@@ -8,7 +8,7 @@ import lombok.Setter;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "matching")
+@Table(name = "Matching")
 @Getter
 @Setter
 @NoArgsConstructor
